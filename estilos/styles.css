@@ -5,4 +5,6 @@ border: 1px solid black;
 }
 h1 {
   front-weight: normal
+  margin: 0
+  padding: 0
 }
