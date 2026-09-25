@@ -3,3 +3,6 @@ color: red;
 width: 800px;
 border: 1px solid black;
 }
+h1 {
+  front-weight: normal
+}
