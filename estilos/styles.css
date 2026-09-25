@@ -3,7 +3,9 @@ color: red;
 width: 800px;
 border: 1px solid black;
 }
-
 h1 {
-    color: cadetblue;
+  front-weight: normal
+  margin: 0;
+  padding: 0;
+  color: cadetblue;
 }
